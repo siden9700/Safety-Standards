@@ -14,13 +14,13 @@ We are strongly committed to protecting children and preventing child sexual abu
 
 If you believe a user or content violates our child safety policies, please report it immediately:
 
-- **Email:** [safety@datacolabx.org](mailto:safety@datacolabx.org)  
+- **Email:** [info@ncdd.gov.kh](mailto:info@ncdd.gov.kh)  
 - **Phone:** (+855) 23 720 038
 
 ## Contact Information
 
 **Safety & Compliance Team**  
-Email: [safety@datacolabx.org](mailto:safety@datacolabx.org)  
+Email: [info@ncdd.gov.kh](mailto:info@ncdd.gov.kh)  
 Phone: (+855) 23 720 038
 
 We are committed to upholding the highest safety standards to protect children and vulnerable users.
