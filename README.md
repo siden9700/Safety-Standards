@@ -37,16 +37,13 @@ cd website_krong_backend/core
 
 ### 2. Install PHP Dependencies
 
-```bash
 composer install
 
 ### 3. Copy .env and Set Environment Variables
 
-```bash
 cp .env.example .env
 php artisan key:generate
 
 ### 4. Import Database
 
-```bash
 Krong-Database.zip
