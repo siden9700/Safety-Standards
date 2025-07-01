@@ -49,7 +49,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-### 4. Remane uploads.example to uploads
+### 4. Rename uploads.example to uploads
 
 ```bash
 mv uploads.example uploads
