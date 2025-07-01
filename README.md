@@ -34,16 +34,35 @@ Make sure your system has the following installed:
 ```bash
 git clone https://github.com/githubncdds/website_krong_backend.git
 cd website_krong_backend/core
+```
 
 ### 2. Install PHP Dependencies
 
+```bash
 composer install
+```
 
 ### 3. Copy .env and Set Environment Variables
 
+```bash
 cp .env.example .env
 php artisan key:generate
+```
 
-### 4. Import Database
+### 4. Remane uploads.example to uploads
 
+```bash
+mv uploads.example uploads
+```
+
+### 5. Import Database
+
+```bash
 Krong-Database.zip
+```
+
+### 6. Serve the App
+
+```bash
+php artisan serve
+```
